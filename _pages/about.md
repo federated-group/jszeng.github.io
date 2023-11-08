@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at Jiangxi Normal University, deputy dean of the College of Computer Information Engineering, master's supervisor, deputy director of the Language and Spatial Information Science Research Center at Jiangxi Normal University.
+Dr. Jinshan Zeng is a Professor with School of Computer and Information Engineering, Jiangxi Normal University. I am now recruiting Ph.D.s who have a strong foundation in mathematics and computer science, a passion for research, a diligent, hardworking, and optimistic learning attitude, and a strong spirit of teamwork to join our research team.
 
 Education
 ======
@@ -22,7 +22,7 @@ Sep. 2004 – Jun. 2008, B. Sci. in Information and Computing Science, Xi`an Jia
 
 Professional Experience
 ======
-Jul. 2015 - now, Professor, School of Computer and Information Engineering, Jiangxi Normal University
+Jul. 2015 - present, Professor, School of Computer and Information Engineering, Jiangxi Normal University
 
 Sep. 2019 - Sep. 2020, Visiting Scholar, School of Data Science, City University of Hong Kong
 
