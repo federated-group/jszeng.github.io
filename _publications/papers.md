@@ -1,23 +1,3 @@
----
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/papers
-excerpt: ''
-date: 
-venue: 
-paperurl: 
-citation: 
----
-
-
-
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
-
-
 2023
 ======
 
@@ -28,7 +8,9 @@ Chen Yong, Gui Xinfeng, **Zeng Jinshan**, Zhao Xi-Le, He Wei. Combining Low-Rank
 **Jinshan Zeng**, Ling Tu, Jie Zhou, Yefei Wang, Jiguo Zeng. Enhancing Chinese Calligraphy Generation with Contour and Region-aware Attention. International Joint Conference on Neural Networks (IJCNN).
 
 
-# 2022
+2022
+======
+
 **Jinshan Zeng**, Yudong Xie, Xianglong Yu, John SY Lee, Ding-Xuan Zhou. Enhancing automatic readability assessment with pre-training and soft labels for ordinal regression. Findings of the Association for Computational Linguistics: EMNLP 2022.
 
 
